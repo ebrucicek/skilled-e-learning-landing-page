@@ -27,6 +27,7 @@
   background: #13183F;
   padding: 14px 32px;
   border-radius: 28px;
+   z-index: 2;
 }
 
 .hero-section {
@@ -74,6 +75,7 @@
   position: absolute;
   top: 0px;
   right: 0;
+  z-index: 1;
 }
 
 /* Content Section */
